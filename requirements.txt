@@ -1,0 +1,14 @@
+pandas
+xlrd
+sys
+datetime
+os
+json
+openpyxl
+typing
+io
+streamlit
+streamlit_pandas_profiling
+
+
+
