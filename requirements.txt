@@ -1,7 +1,6 @@
 pandas
 xlrd
 datetime
-os
 json
 openpyxl
 typing
